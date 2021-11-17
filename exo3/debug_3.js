@@ -7,9 +7,9 @@ while(boucle < 5) {
 }
 
 
-document.getElementById('divInconnuAuBataillon').innerHTML = "ttttttttttttttttt";
+document.getElementById('main').innerHTML = "ttttttttttttttttt";
 
-if(1 === 1) {
+if(main == 1) {
     alert('connue');
 }
 else {
